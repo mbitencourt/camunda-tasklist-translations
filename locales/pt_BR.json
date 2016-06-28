@@ -65,7 +65,7 @@
     "FILTER_CRITERIA_VALUE": "Valor",
     "FILTER_ADD_CRITERION": "Adicionar critério",
     "FILTER_REMOVE_CRITERION": "Excluir",
-    "ADD_PERMISSION": "Adicionar pemissão.",
+    "ADD_PERMISSION": "Adicionar permissão.",
     "FILTER_FORM_PERMISSIONS": "Permissões",
     "FILTER_FORM_PERMISSIONS_GLOBAL": "Acessível por todos os usuários",
     "FILTER_FORM_PERMISSIONS_LOADING_FAILURE": "O cargamento das permissões terminou com falhas. Tente atualizar a página para tentar novamente.",
