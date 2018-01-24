@@ -63,7 +63,7 @@
     "NEW_TASK_TENANT_ID" : "Id do Ocupante",
     "TASK_UPDATE_SUCESS" : "A tarefa foi salva.",
     "RENDERING" : "Renderizando…",
-    "COMPLETE" : "Completo",
+    "COMPLETE" : "Completar",
     "description" : "Descrição",
     "SEARCH_PROCESS_BY_NAME" : "Busca por nome do processo (diferenciar maiúsculas\/minúsculas).",
     "FILTER_DELETION_SUCCESS" : "O filtro foi excluído",
